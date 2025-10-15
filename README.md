@@ -1,0 +1,2 @@
+# infra
+Repositório Lab ArgoCD
